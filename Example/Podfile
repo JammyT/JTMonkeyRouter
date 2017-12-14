@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JTMonkeyRouter_Example' do
+  pod 'JTMonkeyRouter', :path => '../'
+
+  target 'JTMonkeyRouter_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
