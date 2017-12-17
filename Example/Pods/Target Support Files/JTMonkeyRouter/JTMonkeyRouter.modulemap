@@ -1,0 +1,6 @@
+framework module JTMonkeyRouter {
+  umbrella header "JTMonkeyRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

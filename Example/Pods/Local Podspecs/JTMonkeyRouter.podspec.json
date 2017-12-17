@@ -1,0 +1,22 @@
+{
+  "name": "JTMonkeyRouter",
+  "version": "0.1.0",
+  "summary": "A short description of JTMonkeyRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jammy Tang/JTMonkeyRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jammy Tang": "yongxiang.tang@ele.me"
+  },
+  "source": {
+    "git": "https://github.com/Jammy Tang/JTMonkeyRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JTMonkeyRouter/Classes/**/*"
+}

@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JTMonkeyRouter (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JTMonkeyRouter (from `../`)
+
+EXTERNAL SOURCES:
+  JTMonkeyRouter:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JTMonkeyRouter: 3ac70e42aa3218769f7eab077b265855f801632b
+
+PODFILE CHECKSUM: 445c23c2e68bd501f61d2d84f6b5c7cbedaa381f
+
+COCOAPODS: 1.3.1
